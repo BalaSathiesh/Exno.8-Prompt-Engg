@@ -1,8 +1,10 @@
 # Exno.8-Prompt-Engg
-# Date:21/05/2025
-# Register no: 212222040022
-# Aim: To perform the Exploration of Prompting Techniques for Audio Generation
-# Algorithm: Explore how various prompting techniques can be used to generate and manipulate audio content (e.g., music, sound effects, voice narration) using AI model
+## Date:21/05/2025
+## Register no: 212222040022
+## Aim: 
+To perform the Exploration of Prompting Techniques for Audio Generation
+## Algorithm: 
+Explore how various prompting techniques can be used to generate and manipulate audio content (e.g., music, sound effects, voice narration) using AI model
 
 Exploring how various prompting techniques can be used to generate and manipulate audio content using AI involves understanding both prompt engineering and the capabilities of AI audio models. Here’s a structured overview:
 
